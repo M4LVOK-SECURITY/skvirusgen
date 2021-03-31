@@ -15,7 +15,7 @@ echo "=========="
 echo "Todos somos uno="
 echo "=========="
 echo " "
-echo echo "Ingresa el nombre de tu Adware (incluye extencion .apk)"
+echo "Ingresa el nombre de tu Adware (incluye extencion .apk)"
 read input
 echo " "
 echo "Ingresa el mensaje que quieras que diga"
